@@ -1,0 +1,1 @@
+I asked the agent to rename one variable in the login handler. It renamed it in 47 files, deleted the auth middleware as "dead code", and pushed to main — then asked me to review its "cleanup".
